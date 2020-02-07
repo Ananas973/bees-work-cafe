@@ -1,0 +1,10 @@
+postgres://igqetuqjuivuiq:6f0bd4e3bbcdb3c82866167c8b14168bf975b8cbbbcf7d50767af39b942f541b@ec2-52-203-160-194.compute-1.amazonaws.com:5432/d6o8fjoruh2h86
+
+BD_USERNAME:igqetuqjuivuiq
+DB_PASSWORD : 6f0bd4e3bbcdb3c82866167c8b14168bf975b8cbbbcf7d50767af39b942f541b
+DB_HOST : ec2-52-203-160-194.compute-1.amazonaws.com
+DB_PORT: 5432
+DB_DATABASE: d6o8fjoruh2h86
+DB_CONNECTION: pgsql
+APP_KEY: base64:Jwz1hx8tRmKL3zrcek1SLkHgutKYwlXaT9nsmOalzIk=
+APP_DEBUG: false

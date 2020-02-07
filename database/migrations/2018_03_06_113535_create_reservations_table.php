@@ -19,8 +19,6 @@ class CreateReservationsTable extends Migration
             $table->string('phone');
             $table->string('email');
             $table->string('date_and_time');
-            $table->string('category');
-            $table->string('article');
             $table->string('message');
             $table->boolean('status');
             $table->timestamps();
